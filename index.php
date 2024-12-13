@@ -102,7 +102,6 @@ function fncWinLoseDraw($player){
 }
 
 
-
 ?><!DOCTYPE html>
 <html>
 <head>
